@@ -1,0 +1,28 @@
+name: Lamali
+favicon: null
+layout_spectrum: 0.42410565656609833
+typography_spectrum: 0.8229995919391513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7615583534352481
+  lightness: 0.04912106995470822
+  saturation: 0.7463291042950004
+  rhythmicContrast: 0.5671476477291435
+purpose: []
